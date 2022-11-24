@@ -8,7 +8,7 @@ This repository contains projects for training C programming. All projects are i
 3. Linux and Unix system programming (directory 0x14 and 0x15)
 
 ## Coding style
-- All C files are compiled on Ubuntu 14.04 LTS and using [Betty Style](https://\github.com/holbertonschool/Betty) for checking coding and documentation styles. In most of project, standard library function is not allow to use, except `malloc`, `free`, and `exit`.
+- All C files are compiled on Ubuntu 14.04 LTS and using [Betty Style](https://github.com/holbertonschool/Betty) for checking coding and documentation styles. In most of project, standard library function is not allow to use, except `malloc`, `free`, and `exit`.
 
 ## Installation
 To use, first download  this repository into your local machine by issuing the following command in your local terminal.
