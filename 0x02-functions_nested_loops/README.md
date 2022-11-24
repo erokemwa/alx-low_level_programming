@@ -4,7 +4,7 @@
 
 README - Brief description of the output of each function.
 
-0. a program that prints Holberton, followed by a new line
+0. a program that prints Putchar, followed by a new line
 1. prints the alphabet, in lowercase, followed by a new line
 2. prints 10 times the alphabet, in lowercase, followed by a new line
 3. checks for lowercase character
