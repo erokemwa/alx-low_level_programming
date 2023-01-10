@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-0x17. C - Doubly linked lists
-=======
 # Low-level programming - C
 Low-level programming & Algorithm
 
@@ -39,14 +36,6 @@ Once the .c files are compiled you can run the program by issuing the command
 ./<output filename>
 ```
 
-### Usage Example
-```
-$ gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
-$ ./1-isdigit
-0: 1
-a: 0
-```
 
 ## Author
 Eric Okemwa - [Twitter: @EricOkemwa_](https://twitter.com/EricOkemwa_)
->>>>>>> 1b8b240cea98a3f21cb599b25e9d998f5f7c9de1
