@@ -33,7 +33,7 @@ gcc -Wall -Werror -Wextra -pedantic <filename.c> -o <output filename>
 ```
 Once the .c files are compiled you can run the program by issuing the command
 ```
-./<output filename>
+./<output <filename>
 ```
 
 
